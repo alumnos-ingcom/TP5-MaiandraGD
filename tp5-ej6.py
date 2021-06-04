@@ -3,8 +3,6 @@
 # UNRN Andina - Introducción a la Ingeniería en Computación
 ################
 
-# La solución no aplica para conjuntos balanceados pero diferentes de cadenas. Ej: '()()' devuelve TRUE
-
 
 def cadena_balanceada(cadena):
     
