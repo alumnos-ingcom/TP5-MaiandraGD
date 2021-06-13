@@ -5,7 +5,7 @@
 
 # Esta funcion no analiza si los números se repiten o no
 
-def lista_igual(l1=0,l2=0):       
+def lista_igual():       
     
     lista1 = list(input("Ingrese números para la primer lista: "))
     lista2 = list(input("Ingrese números para la segunda lista: "))
